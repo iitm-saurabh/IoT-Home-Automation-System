@@ -1,0 +1,32 @@
+# IoT Home Automation System - Python Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Serial Communication
+pyserial==3.5
+
+# MQTT Broker Communication
+paho-mqtt==1.6.1
+
+# Data Processing and JSON handling
+python-json-logger==2.0.4
+
+# HTTP API Framework
+Flask==2.3.0
+Flask-RESTful==0.3.10
+
+# Database
+SQLAlchemy==2.0.0
+
+# Configuration Management
+python-dotenv==1.0.0
+
+# Logging and Monitoring
+loguru==0.6.0
+
+# Testing
+pytest==7.3.0
+pytest-cov==4.0.0
+
+# Development
+black==23.3.0
+flake8==6.0.0
