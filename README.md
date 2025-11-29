@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or issues:
 - Open a [GitHub Issue](https://github.com/iitm-saurabh/IoT-Home-Automation-System/issues)
 - Check [Discussions](https://github.com/iitm-saurabh/IoT-Home-Automation-System/discussions)
-- Email: saurabh@example.com
+- Email: lohkaresaurabh35@gmail.com
 
 ---
 
